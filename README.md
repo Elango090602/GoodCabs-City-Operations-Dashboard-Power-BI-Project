@@ -192,7 +192,7 @@ Through this project, I worked on:
 ## Repository Contents
 
 ```bash
-Dashboard Screenshots/
+city-operations-analytics-dashboard/
 │
 ├── Goodcabs.jpg
 ├── Goodcabs2.jpg
