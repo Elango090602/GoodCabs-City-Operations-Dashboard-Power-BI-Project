@@ -17,7 +17,7 @@ This project is divided into **three interactive dashboard views**:
 ## Dashboard Preview
 
 ### 1. Operations Insights Dashboard
-![Operations Insights Dashboard](Goodcabs.jpg)
+![Operations Insights Dashboard](Dashboard Screenshot/Goodcabs.jpg)
 
 ### 2. Target vs Actual Analysis Dashboard
 ![Target vs Actual Analysis Dashboard](Goodcabs2.jpg)
