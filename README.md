@@ -1,8 +1,8 @@
-# GoodCabs City Operations Dashboard | Power BI Project
+# City Operations Analytics Dashboard | Power BI Project
 
 ## Project Overview
 
-This project is a **Power BI dashboard solution** built for **GoodCabs**, designed to analyze city-level business performance across trips, revenue, passengers, targets, and repeat traveler behavior.
+This project is a **Power BI dashboard solution** designed to analyze city-level business performance across trips, revenue, passengers, targets, and repeat traveler behavior.
 
 The dashboard helps stakeholders monitor operational efficiency, understand passenger patterns, compare actual performance against targets, and identify high-performing and low-performing cities.
 
@@ -14,9 +14,22 @@ This project is divided into **three interactive dashboard views**:
 
 ---
 
+## Dashboard Preview
+
+### 1. Operations Insights Dashboard
+![Operations Insights Dashboard](Goodcabs.jpg)
+
+### 2. Target vs Actual Analysis Dashboard
+![Target vs Actual Analysis Dashboard](Goodcabs2.jpg)
+
+### 3. Passenger Analysis Dashboard
+![Passenger Analysis Dashboard](Goodcabs3.jpg)
+
+---
+
 ## Business Objective
 
-The goal of this project is to provide a clear and interactive view of GoodCabs’ performance across multiple cities by answering questions such as:
+The goal of this project is to provide a clear and interactive view of business performance across multiple cities by answering questions such as:
 
 - Which cities generate the highest revenue?
 - Which cities contribute the most trips?
@@ -32,7 +45,7 @@ The goal of this project is to provide a clear and interactive view of GoodCabs�
 
 ### 1. Home / City Level Operations Insights
 
-This page gives a high-level operational summary of GoodCabs across cities.
+This page gives a high-level operational summary across cities.
 
 #### Key KPIs:
 - **Total Trips:** 425.9K
@@ -179,8 +192,10 @@ Through this project, I worked on:
 ## Repository Contents
 
 ```bash
-GoodCabs-City-Operations-Dashboard/
+city-operations-analytics-dashboard/
 │
-├── Dashboard Screenshots/
+├── Goodcabs.jpg
+├── Goodcabs2.jpg
+├── Goodcabs3.jpg
 ├── dataset/
-├── README.md
+└── README.md
